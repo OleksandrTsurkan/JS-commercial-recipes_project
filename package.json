@@ -2,10 +2,10 @@
   "name": "project-cookery-canvas",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sokilskill.github.io/project-cookery-canvas",
+  "homepage": "https://OleksandrTsurkan.github.io/JS-commercial-recipes_project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-cookery-canvas/"
+    "build": "parcel build src/*.html --public-url /JS-commercial-recipes_project/"
   },
   "repository": {
     "type": "git",
